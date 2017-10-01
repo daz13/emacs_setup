@@ -1,0 +1,39 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/" . "david/")
+ ("/" . "Users/")
+ ("/Users/david/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/david/"
+ "/Users/david/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs_bu"
+ "starter-kit-org.org"
+ "starter-kit.org"
+ "starter-kit.el"
+ "starter-kit-org.el"
+ "init.el"
+ "starter-kit-gnus.org"
+ "starter-kit-bindings.org"
+ "starter-kit-bindings.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/david/.emacs.d/" (22980 65123 0 0) "starter-kit.org~" "starter-kit.org" "starter-kit.el" "starter-kit-yasnippet.org" "starter-kit-scala.org" "starter-kit-ruby.org" "starter-kit-registers.org" "starter-kit-registers.el" "starter-kit-python.org" "starter-kit-publish.org" "starter-kit-perl.org" "starter-kit-org.org" "starter-kit-org.el" "starter-kit-misc.org" "starter-kit-misc.el" "starter-kit-misc-recommended.org" "starter-kit-lisp.org" "starter-kit-latex.org" "starter-kit-js.org" "starter-kit-haskell.org" "starter-kit-gnus.org" "starter-kit-g-client.org" "starter-kit-eshell.org" "starter-kit-defuns.org" "starter-kit-defuns.el" "starter-kit-bindings.org" "starter-kit-bindings.el" "src/" "snippets/" "README" "network-security.data" "Makefile" "literate-starter-kit-pkg.el" "init.el~" "init.el" "ido.last" "elpa/" "custom.el~" "custom.el" "COPYING" "bookmarks" "backups/" "auto-save-list/" ".#starter-kit-org.org" "../" "./")
+
+ ("/Users/" (22634 39871 0 0) "Shared/" "david/" ".localized" "../" "./")
+
+ ("/Users/david/" (22980 60188 0 0) "test.r" "test.org~" "test.org" "test/" "Public/" "Programming/" "Pictures/" "OOTP_Padres/" "Music/" "Movies_old/" "Movies/" "Library/" "kodi/" "gfortran-4.8.2-darwin13.tar.bz2" "emacs24-starter-kit/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "anaconda/" ".vnc/" ".Trash/" ".subversion/" ".ssh/" ".smb/" ".rstudio-desktop/" ".Rhistory" ".python_history" ".oracle_jre_usage/" ".kodi/" ".jupyter/" ".ipython/" ".gitkraken/" ".gitconfig" ".emacs_bu" ".emacs.d_bu/" ".emacs.d/" ".DS_Store" ".dropbox/" ".cups/" ".continuum/" ".config/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile" ".bash_history" ".anaconda/" "#nbatest.py#~" "#nbatest.py#" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

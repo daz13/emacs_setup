@@ -1,0 +1,5 @@
+* Check dependency
+
+#+BEGIN_SRC emacs-lisp
+(starter-kit-install-if-needed 'helm)
+#+END_SRC

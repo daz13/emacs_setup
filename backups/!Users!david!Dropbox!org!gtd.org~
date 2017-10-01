@@ -1,0 +1,301 @@
+#+TAGS: { @OFFICE(o) @HOME(h) } @COMPUTER(c) READ_REVIEW(r) ERRANDS_RO(e) ERRNDS_CAR(a) PHONE(p) WORK(w) TAKE_HOME(t)
+#+SEQ_TODO: TODO(t) NEXT(n) WAITING(w) PROJ(p) | DONE(d) CANCELLED(c)
+#+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
+Short cut  ------>     1   2    3    4    5    6   7    8    9
+* Pending
+
+
+** TODO Mit Christian sprechen
+** TODO Mit Frank sprechen
+** TODO Mit Dennis sprechen
+** TODO Hochzeitplanung
+* Projects
+** Programming
+*** PROJ Basketball Analytics
+**** NEXT Plan next steps for the NBA Project
+*** PROJ Making Coffee
+**** TODO Tasks 
+**** Reference material 
+*** PROJ Emacs org-mode Setup 
+**** TODO Tasks 
+**** Reference material 
+***** [[http://members.optusnet.com.au/~charles57/GTD/gtd_workflow.html][Nicolad PEtton: Org-Mode for GTD]]
+      :LOGBOOK:
+      CLOCK: [2017-09-19 Tue 12:11]--[2017-09-19 Tue 12:12] =>  0:01
+      :END:
+    [2017-09-19 Tue 12:11]
+***** http://members.oclptusnet.com.au/~charles57/GTD/gtd_workflow.html
+      :LOGBOOK:
+      CLOCK: [2017-09-19 Tue 12:10]--[2017-09-19 Tue 12:11] =>  0:01
+      :END:
+    [2017-09-19 Tue 12:10]]
+
+** PROJ Hochzeit
+   :PROPERTIES:
+   :CREATED:  [2017-09-19 Tue 14:04]
+   :END:
+
+*** WAITING Make apointment w Vogelburg
+    SCHEDULED: <2017-09-19 Tue 20:30>
+    :PROPERTIES:
+    :CREATED:  [2017-09-19 Tue 16:23]
+    :END:
+
+*** DONE Make appointment at Weingut Steinbachhof
+*** NEXT Decide on Location
+** PROJ Hochzeit Nadine
+   DEADLINE: <2017-11-04 Sat>
+*** NEXT Mama wegen bildern Nadine fragen                             :PHONE:
+    :PROPERTIES:
+    :CREATED:  [2017-09-22 Fri 10:05]
+    :END:
+
+*** NEXT Think if/how to do Schuhspiel
+
+*** NEXT Think about geschenk
+** PROJ Winterreifen
+*** NEXT Find out Winterreifenabmessung
+*** TODO Termin bei First Stop vereinbaren
+
+** PROJ Urlaub Japan
+*** WAITING Zeitraum und grobe Route --> KARLA
+    SCHEDULED: <2017-10-14 Sat>
+* Tasks
+
+** NEXT Batterien Uhr                                            :ERRANDS_RO:
+** NEXT Knopfbatterie 3V nachkaufen                               :@COMPUTER:
+** TODO Bücherei Bücher zurückbringen                            :ERRANDS_RO:
+   DEADLINE: <2017-10-17 Tue> SCHEDULED: <2017-10-14 Sat>
+* Financial
+** Konten
+*** NEXT Konten kündigen                                          :@COMPUTER:
+*** NEXT Status Sparkonto Sparkasse Ulm recherchieren             :@COMPUTER:
+    :PROPERTIES:
+    :CREATED:  [2017-09-21 Thu 12:34]
+    :END:
+
+** Aktien
+
+** NEXT Größere Ausgaben der nächsten Jahre planen
+   :PROPERTIES:
+   :CREATED:  [2017-09-21 Thu 12:19]
+   :Effort:   2:00
+   :END:
+
+** PROJ Finanzen: Aktien
+ --> Aktien in griff bekommen
+*** NEXT Read Aktien Chapter in Cashkurs
+*** NEXT Read Kindle Finanzbuch
+* Social
+** Karla
+*** WAITING Fix barista Kurs
+    SCHEDULED: <2017-09-26 Di>
+*** NEXT Gutschein aquaristik shop                                :@COMPUTER:
+** Mama & Papa
+** Nadine Henning, Jonas
+*** TODO Nadine nach Geschenk fragen                                  :PHONE:
+    SCHEDULED: <2017-11-07 Tue>
+*** NEXT Geburtstagsgeschenk Jonas NAdine fragen                      :PHONE:
+    SCHEDULED: <2017-10-05 Thu> DEADLINE: <2017-11-05 Sun>
+** Oma
+
+** Friends
+*** TODO Sarah W. zum Geb gratulieren
+    SCHEDULED: <2018-09-21 Fri>
+*** TODO Gunther nach Prüfunsergebnisse fragen
+    SCHEDULED: <2017-11-01 Wed>
+** PROJ Weihnachtsgeschenke
+   SCHEDULED: <2017-11-01 Wed>
+* Wohnung
+  :PROPERTIES:
+  :CATEGORY: Wohnung
+  :END:
+** TODO Müll rausbringen
+   SCHEDULED: <2017-09-29 Fri 19:00 ++1w>
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-09-19 Tue 19:34]
+   :END:
+
+   - State "DONE"       from "WAITING"    [2017-09-19 Tue 19:34]
+** WAITING Steuer überweisen
+   DEADLINE: <2017-12-10 Sun 08:11 ++3m> SCHEDULED: <2017-12-07 Thu 18:00 ++3m>
+
+** WAITING Regeneriersalz checken
+   SCHEDULED: <2017-11-07 Di ++2m>
+
+** NEXT Küche aufräumen                                               :@HOME:
+** PROJ Neue Wohnzimmerwand
+*** NEXT Reserach Wohnzimmerwand (prizes etc.)                    :@COMPUTER:
+** PROJ Neuer Wohnzimer Tisch
+*** NEXT Reseach Wohnzimmertisch                                  :@COMPUTER:
+** NEXT Rasen mähen                                                   :@HOME:
+   SCHEDULED: <2017-09-23 Sat>
+** NEXT Garage ausräumen
+* Auto
+  :PROPERTIES:
+  :CATEGORY: Auto
+  :END:
+** PROJ Auto Gasanlage                                
+*** TODO Tasks 
+**** NEXT Finde werkstatt                                         :@COMPUTER:
+*** Reference material 
+
+* Career
+** NEXT Lebenslauf updaten
+   :PROPERTIES:
+   :Effort:   3:00
+   :END:
+** Interesting positions
+*** TODO AbbVie data scientist                                          :job:
+
+  Sehen Sie sich dieses Jobangebot bei AbbVie an: https://www.linkedin.com/jobs2/view/440188383
+
+*** TODO Roche biostatistician
+
+  Sehen Sie sich dieses Jobangebot bei Roche Diagnostics GmbH, Mannheim und Penzberg an: https://www.linkedin.com/jobs2/view/436233877
+
+*** TODO Job Description - Data Scientist (m/f) for Predictive Analytics (1705956)
+
+ https://abbvie.taleo.net/careersection/2/jobdetail.ftl
+
+*** TODO Roche biostatistician
+
+ Sehen Sie sich dieses Jobangebot bei Roche Diagnostics GmbH, Mannheim und Penzberg an: https://www.linkedin.com/jobs2/view/436233877
+
+*** TODO Basf - Statistician / Chemometrician / Data Scientist (m/f)
+
+ https://basf.jobs/europe-rd/job/Ludwigshafen-Statistician-Chemometrician-Data-Scientist-%28mf%29-67059/347837501/?feedId=111101
+
+*** TODO Roche - Informatics Expert Biologics Research (m/f)
+
+ http://www.roche.com/de/careers/jobs/jobsearch/job.htm?id=E-2729685239&locale=en&title=Informatics+Expert+Biologics+Research+%28m%2Ff%29
+
+*** TODO Roche - Research Informatics Expert
+
+ http://www.roche.com/de/careers/jobs/jobsearch/job.htm?id=E-3418544341&locale=en&title=Research+Informatics+Expert
+
+*** Data Scientist (m/f) BASF
+
+ https://basf.jobs/europe-rd/job/Ludwigshafen-Data-Scientist-%28mf%29-67059/348053301/?feedId=111101
+
+*** BASF - R&D Knowledge Architect/Deep Learning Expert (m/f)
+
+ https://basf.jobs/europe-rd/job/Ludwigshafen-R&D-Knowledge-ArchitectDeep-Learning-Expert-%28mf%29-67059/349176701/?feedId=111101
+
+*** Roche - Scientist / IT Specialist in Automated, Cross-functional Data Handling with a Focus on Mass Spectrometry in the Environment of Pharma Research and Early Development (m/f)
+
+ http://www.roche.com/de/careers/jobs/jobsearch/job.htm?id=E-3409514203&locale=en&title=Scientist+%2F+IT+Specialist+in+Automated%2C+Cross-functional+Data+Handling+with+a+Focus+on+Mass+Spectrometry+in+the+Environment+of+Pharma+Research+and+Early+Development+%28m%2Ff%29
+
+*** Roche - Biostatistician (m/f)
+
+ http://www.roche.com/de/careers/jobs/jobsearch/job.htm?id=E-3401636329&locale=en&title=Biostatistician+%28m%2Ff%29
+
+*** Roche - Nonclinical Biostatistician
+
+ http://www.roche.com/de/careers/jobs/jobsearch/job.htm?id=E-3412447914&locale=en&title=Nonclinical+Biostatistician
+
+*** Roche - Translational Biomarker & Biostatistics Expert
+
+ http://www.roche.com/de/careers/jobs/jobsearch/job.htm?id=E-3407885005&locale=en&title=Translational+Biomarker+%26+Biostatistics+Expert
+
+*** Bayer - Scientist Modeling & Simulation Crop Science (m/f)
+
+ https://karriere.bayer.de/de/job/Scientist-Modeling-Simulation-Crop-Science-m-f--0000193095.html
+
+
+* Read Review
+  :PROPERTIES:
+  :CATEGORY: Read
+  :END:
+** TODO https://peerj.com/preprints/3201v1/?utm_content=buffer7bd2d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+** TODO https://simplystatistics.org/2017/09/04/deep-dive-ogata/
+** TODO machine-learning-mindmap/README.md at master · dformoso/machine-learning-mindmap · GitHub
+
+ https://github.com/dformoso/machine-learning-mindmap/blob/master/README.md
+
+** TODO https://keras.rstudio.com/                                     :work:
+   CLOSED: [2017-09-12 Tue 15:29]
+
+** TODO https://peerj.com/preprints/3201v1/?utm_content=buffer7bd2d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+
+* Things to buy
+** NEXT Buy a better apple keyboard                               :@COMPUTER:
+   :PROPERTIES:
+   :Effort:   0:20
+   :END:
+
+   :LOGBOOK:
+   CLOCK: [2017-09-19 Tue 11:23]--[2017-09-19 Tue 11:23] =>  0:00
+   :END:
+ [2017-09-19 Tue 11:23]
+ [[file:~/Dropbox/org/gtd.org::*Do][Do]]
+*** TODO https://peerj.com/preprints/3201v1/?utm_content=buffer7bd2d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+
+* Things for work                                                      :WORK:
+
+
+** NEXT Talk to Thomas about career development options
+** TODO Work: BAyes
+** TODO Work: platfrom
+** TODO Work: QGE
+** TODO Work: Cosentyx app
+** TODO Work: process model risk reduction
+** TODO Work: fitness for use
+** NEXT Work: Clarify job focuses! for next year
+* Reference material
+** Statistics and Data Science
+*** TODO https://simplystatistics.org/2017/09/04/deep-dive-ogata/
+** Programming (general interest)
+** Kodi
+** Financial
+** Sport
+** Misc
+
+** MY GTD Concept 
+
+*** Collect
+
+*** Process 
+
+ 1. Is it actionable
+    + No:
+      - Someday/Maybe
+      - Reference
+      - Trash
+    + Yes:
+      - Can be done in less than two minutes -> DO
+      - Projects
+      - Waiting
+      - Calendar
+      - Next actions
+
+ This lead to seven buckets:
+**** Projects
+ The projects list should not! hold project plans or details about the
+ projects themselves
+ --> Use non inheritable project tag
+**** project support material
+**** Calendared actions and information
+ Everything that must come up at a certain day or time goes on the
+ calendar (org mdoe scheduled)
+**** 'Next Actions' lists
+ Next action lists are maintained context specfific. My contexts:
+***** Calls
+***** At computer
+***** Errands - Rosenheim City
+***** Errands - Auto
+***** At homeb
+***** Agendas
+***** Read/Review
+**** 'Waiting For' list
+**** Reference material
+**** 'Someday/Maybe list
+
+*** Organize 
+
+*** Review
+
+*** Do
+
